@@ -1,24 +1,23 @@
-[![MasterHead align="center"](https://i0.wp.com/webcodeflow.com/wp-content/uploads/2021/04/Pixel-Banner.gif?fit=540%2C246&ssl=1)](https://rishavchanda.io)
+[![MasterHead align="center"](https://malaysoft.com/uploaded/redesign_website/redesign.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Kaustubh Badve</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format
-">
+<img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhbadve&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhbadve" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kaustubh_badve" target="blank"><img src="https://img.shields.io/twitter/follow/kaustubh_badve?logo=twitter&style=for-the-badge" alt="kaustubh_badve" /></a> </p>
 
-- 🔭 I’m currently working on **GitHub Clone**
+- 🔭 Currently working on **GitHub Clone**
 
-- 🌱 I’m currently learning **React,Redux & Mongo Frameworks**
+- 🌱 Currently learning **React,Redux & Mongo Frameworks**
 
 - 💬 Ask me about **React, Redux, JavaScript**
 
-- 📫 How to reach me **Kaustubhbadve7@gmail.com**
+- 📫 Reach me at **Kaustubhbadve7@gmail.com**
 
-- ⚡ Fun fact **You're Smiling 😄**
+- ⚡** Why You're Smiling 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

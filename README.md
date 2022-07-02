@@ -12,7 +12,7 @@
 
  ➥ Here is my Resume : <a href="https://drive.google.com/file/d/1-2-G5DbaYGkZTRwhdv2_IXj2XSbvpzOe/view?usp=sharing">**RESUME**</a>
  
- ➥ Here is my PORTFOLIO : <a href="https://hilarious-rolypoly-6da8aa.netlify.app/">**PORTFOLIO**</a>
+ ➥ Here is my PORTFOLIO : <a href="https://magnificent-daifuku-6cc1b6.netlify.app/">**PORTFOLIO**</a>
 
  🌱 Currently learning **Mongo Frameworks**
 

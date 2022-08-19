@@ -20,7 +20,7 @@
 
  <li> 📫 Reach me at **Kaustubhbadve7@gmail.com**</li>
  
-<br><br>
+<br><br><br><br>
 <h2 align="center"><i>Connect with me:</i></h2>
 <hr>
 <p align="center">

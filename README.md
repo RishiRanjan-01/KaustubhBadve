@@ -39,11 +39,10 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/41326de293d3848e2ab0f29bf1680427128757fe6b586ceddf1097cb4eeb5ff7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d2d636f6d706f6e656e74732d4442373039333f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465" alt="redux" width="140" height="30"/> </a></p>
 <hr>
 
-<h3 align="left"><i>My GitHub stats:</i></h3>
+<h3 align="center"><i>My GitHub stats:</i></h3>
 <hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubhbadve&show_icons=true&locale=en&layout=compact" alt="kaustubhbadve" /></p>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubhbadve&show_icons=true&locale=en" alt="kaustubhbadve" /></p>
 
 

@@ -40,7 +40,7 @@
 
 <br/><hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubhbadve&show_icons=true&locale=en&layout=compact" alt="kaustubhbadve" /></p>
-
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubhbadve&show_icons=true&locale=en" alt="kaustubhbadve" /></p>
-
+<hr>
 <p style="backgroundcolor: green"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhbadve&" alt="kaustubhbadve" /></p>

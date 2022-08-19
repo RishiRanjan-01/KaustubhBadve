@@ -1,4 +1,6 @@
-[![MasterHead align="center"](https://retool.com/blog/content/images/2022/02/gotchas-git-github-banner-1.png)](https://rishavchanda.io)
+
+
+![snake gif](https://github.com/KaustubhBadve/KaustubhBadve/blob/output/github-contribution-grid-snake.gif)
 
 
 <h1 align="center" allignitem="center">Hi 👋, I'm Kaustubh Badve</h1>
@@ -52,4 +54,4 @@
 <p style="backgroundcolor: green"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhbadve&" alt="kaustubhbadve" /></p>
 <p><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/></p>
 
-![snake gif](https://github.com/KaustubhBadve/KaustubhBadve/blob/output/github-contribution-grid-snake.gif)
+

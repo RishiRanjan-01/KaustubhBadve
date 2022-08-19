@@ -16,11 +16,11 @@
  
  ➥ Here is my Portfolio : <a href="https://kaustubhbadveportfolio.netlify.app/">**PORTFOLIO**</a>
 
- <li>🌱 Currently learning **Mongo Frameworks**</li>
+ <li>🌱 Currently learning Mongo Frameworks</li>
 
- <li>💬 Ask me about **React, Redux, JavaScript**</li>
+ <li>💬 Ask me about anything about MERN Stack</li>
 
- <li> 📫 Reach me at **Kaustubhbadve7@gmail.com**</li>
+ <li> 📫 Reach me at Kaustubhbadve7@gmail.com</li>
  
 <br><br><br><br>
 <h2 align="center"><i>Connect with me:</i></h2>

@@ -20,7 +20,7 @@
 
  <li> 📫 Reach me at **Kaustubhbadve7@gmail.com**</li>
  
-<br/><br/>
+<br/>
 <h3 align="left"><i>Connect with me:</i></h3>
 <hr>
 <p align="left" gap="30px">
@@ -43,4 +43,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubhbadve&show_icons=true&locale=en" alt="kaustubhbadve" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhbadve&" alt="kaustubhbadve" /></p>
+<p style="backgroundcolor: green"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhbadve&" alt="kaustubhbadve" /></p>

@@ -20,10 +20,10 @@
 
  <li> 📫 Reach me at **Kaustubhbadve7@gmail.com**</li>
  
-
-<h2 align="left"><i>Connect with me:</i></h2>
+<br><br>
+<h2 align="center"><i>Connect with me:</i></h2>
 <hr>
-<p align="left" gap="30px">
+<p align="center">
 <a href="https://twitter.com/kaustubh_badve" target="blank"><img align="center" src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="kaustubh_badve"  height="30" width="120" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/kaustubh-badve-457913169" target="blank"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin.com/in/kaustubh-badve-457913169" height="30" width="120" /></a>
 <a href="https://kaustubhbadveportfolio.netlify.app/" target="blank"><img align="center" src="https://camo.githubusercontent.com/56e6045a9403c591ff7c6a997edcd1566597519fa8b8e1129b4919bf10b5c2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3138413330333f7374796c653d666f722d7468652d6261646765266c6f676f3d696f6e6963266c6f676f436f6c6f723d7768697465" alt="kaustubh badve" height="30" width="120" /></a>
